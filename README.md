@@ -1,4 +1,4 @@
-# Personal Blog
+# Blog template
 
 Created with React + NextJS + GraphQL + Tailwind. Following the tutorial from [Javascript Mastery](https://www.youtube.com/watch?v=HYv55DhgTuA)
 
